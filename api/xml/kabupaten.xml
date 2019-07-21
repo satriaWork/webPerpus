@@ -1,0 +1,2573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id_kabupaten>1101</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN SIMEULUE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1102</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH SINGKIL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1103</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1104</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH TENGGARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1105</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1106</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1107</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1108</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH BESAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1109</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN PIDIE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1110</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN BIREUEN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1111</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1112</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH BARAT DAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1113</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN GAYO LUES</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1114</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH TAMIANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1115</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN NAGAN RAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1116</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN ACEH JAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1117</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN BENER MERIAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1118</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KABUPATEN PIDIE JAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1171</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KOTA BANDA ACEH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1172</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KOTA SABANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1173</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KOTA LANGSA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1174</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KOTA LHOKSEUMAWE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1175</id_kabupaten>
+    <id_provinsi>11</id_provinsi>
+    <kabupaten>KOTA SUBULUSSALAM</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1201</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN NIAS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1202</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN MANDAILING NATAL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1203</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN TAPANULI SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1204</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN TAPANULI TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1205</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN TAPANULI UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1206</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN TOBA SAMOSIR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1207</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN LABUHAN BATU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1208</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN ASAHAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1209</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN SIMALUNGUN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1210</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN DAIRI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1211</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN KARO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1212</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN DELI SERDANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1213</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN LANGKAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1214</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN NIAS SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1215</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN HUMBANG HASUNDUTAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1216</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN PAKPAK BHARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1217</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN SAMOSIR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1218</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN SERDANG BEDAGAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1219</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN BATU BARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1220</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN PADANG LAWAS UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1221</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN PADANG LAWAS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1222</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN LABUHAN BATU SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1223</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN LABUHAN BATU UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1224</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN NIAS UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1225</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KABUPATEN NIAS BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1271</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KOTA SIBOLGA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1272</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KOTA TANJUNG BALAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1273</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KOTA PEMATANG SIANTAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1274</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KOTA TEBING TINGGI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1275</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KOTA MEDAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1276</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KOTA BINJAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1277</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KOTA PADANGSIDIMPUAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1278</id_kabupaten>
+    <id_provinsi>12</id_provinsi>
+    <kabupaten>KOTA GUNUNGSITOLI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1301</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN MENTAWAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1302</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN PESISIR SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1303</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN SOLOK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1304</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN SIJUNJUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1305</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN TANAH DATAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1306</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN PADANG PARIAMAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1307</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN AGAM</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1308</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN LIMA PULUH KOTA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1309</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN PASAMAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1310</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN SOLOK SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1311</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN DHARMASRAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1312</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KABUPATEN PASAMAN BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1371</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KOTA PADANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1372</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KOTA SOLOK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1373</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KOTA SAWAH LUNTO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1374</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KOTA PADANG PANJANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1375</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KOTA BUKITTINGGI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1376</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KOTA PAYAKUMBUH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1377</id_kabupaten>
+    <id_provinsi>13</id_provinsi>
+    <kabupaten>KOTA PARIAMAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1401</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN KUANTAN SINGINGI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1402</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN INDRAGIRI HULU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1403</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN INDRAGIRI HILIR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1404</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN PELALAWAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1405</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN S I A K</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1406</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN KAMPAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1407</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN ROKAN HULU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1408</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN BENGKALIS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1409</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN ROKAN HILIR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1410</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN MERANTI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1471</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KOTA PEKANBARU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1473</id_kabupaten>
+    <id_provinsi>14</id_provinsi>
+    <kabupaten>KOTA D U M A I</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1501</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN KERINCI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1502</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN MERANGIN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1503</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN SAROLANGUN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1504</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN BATANG HARI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1505</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN MUARO JAMBI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1506</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN TANJUNG JABUNG TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1507</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN TANJUNG JABUNG BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1508</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN TEBO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1509</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KABUPATEN BUNGO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1571</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KOTA JAMBI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1572</id_kabupaten>
+    <id_provinsi>15</id_provinsi>
+    <kabupaten>KOTA SUNGAI PENUH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1601</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN OGAN KOMERING ULU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1602</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN OGAN KOMERING ILIR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1603</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN MUARA ENIM</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1604</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN LAHAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1605</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN MUSI RAWAS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1606</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN MUSI BANYUASIN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1607</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN BANYU ASIN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1608</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN OGAN KOMERING ULU SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1609</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN OGAN KOMERING ULU TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1610</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN OGAN ILIR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1611</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN EMPAT LAWANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1612</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN PENUKAL ABAB LEMATANG ILIR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1613</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KABUPATEN MUSI RAWAS UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1671</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KOTA PALEMBANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1672</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KOTA PRABUMULIH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1673</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KOTA PAGAR ALAM</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1674</id_kabupaten>
+    <id_provinsi>16</id_provinsi>
+    <kabupaten>KOTA LUBUKLINGGAU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1701</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN BENGKULU SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1702</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN REJANG LEBONG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1703</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN BENGKULU UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1704</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN KAUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1705</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN SELUMA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1706</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN MUKOMUKO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1707</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN LEBONG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1708</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN KEPAHIANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1709</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KABUPATEN BENGKULU TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1771</id_kabupaten>
+    <id_provinsi>17</id_provinsi>
+    <kabupaten>KOTA BENGKULU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1801</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN LAMPUNG BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1802</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN TANGGAMUS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1803</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN LAMPUNG SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1804</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN LAMPUNG TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1805</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN LAMPUNG TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1806</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN LAMPUNG UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1807</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN WAY KANAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1808</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN TULANGBAWANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1809</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN PESAWARAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1810</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN PRINGSEWU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1811</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN MESUJI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1812</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN TULANG BAWANG BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1813</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KABUPATEN PESISIR BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1871</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KOTA BANDAR LAMPUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1872</id_kabupaten>
+    <id_provinsi>18</id_provinsi>
+    <kabupaten>KOTA METRO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1901</id_kabupaten>
+    <id_provinsi>19</id_provinsi>
+    <kabupaten>KABUPATEN BANGKA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1902</id_kabupaten>
+    <id_provinsi>19</id_provinsi>
+    <kabupaten>KABUPATEN BELITUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1903</id_kabupaten>
+    <id_provinsi>19</id_provinsi>
+    <kabupaten>KABUPATEN BANGKA BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1904</id_kabupaten>
+    <id_provinsi>19</id_provinsi>
+    <kabupaten>KABUPATEN BANGKA TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1905</id_kabupaten>
+    <id_provinsi>19</id_provinsi>
+    <kabupaten>KABUPATEN BANGKA SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1906</id_kabupaten>
+    <id_provinsi>19</id_provinsi>
+    <kabupaten>KABUPATEN BELITUNG TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>1971</id_kabupaten>
+    <id_provinsi>19</id_provinsi>
+    <kabupaten>KOTA PANGKAL PINANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>2101</id_kabupaten>
+    <id_provinsi>21</id_provinsi>
+    <kabupaten>KABUPATEN KARIMUN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>2102</id_kabupaten>
+    <id_provinsi>21</id_provinsi>
+    <kabupaten>KABUPATEN BINTAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>2103</id_kabupaten>
+    <id_provinsi>21</id_provinsi>
+    <kabupaten>KABUPATEN NATUNA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>2104</id_kabupaten>
+    <id_provinsi>21</id_provinsi>
+    <kabupaten>KABUPATEN LINGGA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>2105</id_kabupaten>
+    <id_provinsi>21</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN ANAMBAS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>2171</id_kabupaten>
+    <id_provinsi>21</id_provinsi>
+    <kabupaten>KOTA B A T A M</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>2172</id_kabupaten>
+    <id_provinsi>21</id_provinsi>
+    <kabupaten>KOTA TANJUNG PINANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3101</id_kabupaten>
+    <id_provinsi>31</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN SERIBU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3171</id_kabupaten>
+    <id_provinsi>31</id_provinsi>
+    <kabupaten>KOTA JAKARTA SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3172</id_kabupaten>
+    <id_provinsi>31</id_provinsi>
+    <kabupaten>KOTA JAKARTA TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3173</id_kabupaten>
+    <id_provinsi>31</id_provinsi>
+    <kabupaten>KOTA JAKARTA PUSAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3174</id_kabupaten>
+    <id_provinsi>31</id_provinsi>
+    <kabupaten>KOTA JAKARTA BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3175</id_kabupaten>
+    <id_provinsi>31</id_provinsi>
+    <kabupaten>KOTA JAKARTA UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3201</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN BOGOR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3202</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN SUKABUMI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3203</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN CIANJUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3204</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN BANDUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3205</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN GARUT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3206</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN TASIKMALAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3207</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN CIAMIS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3208</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN KUNINGAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3209</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN CIREBON</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3210</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN MAJALENGKA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3211</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN SUMEDANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3212</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN INDRAMAYU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3213</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN SUBANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3214</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN PURWAKARTA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3215</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN KARAWANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3216</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN BEKASI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3217</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN BANDUNG BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3218</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KABUPATEN PANGANDARAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3271</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA BOGOR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3272</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA SUKABUMI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3273</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA BANDUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3274</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA CIREBON</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3275</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA BEKASI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3276</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA DEPOK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3277</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA CIMAHI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3278</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA TASIKMALAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3279</id_kabupaten>
+    <id_provinsi>32</id_provinsi>
+    <kabupaten>KOTA BANJAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3301</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN CILACAP</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3302</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN BANYUMAS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3303</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN PURBALINGGA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3304</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN BANJARNEGARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3305</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN KEBUMEN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3306</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN PURWOREJO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3307</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN WONOSOBO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3308</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN MAGELANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3309</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN BOYOLALI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3310</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN KLATEN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3311</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN SUKOHARJO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3312</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN WONOGIRI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3313</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN KARANGANYAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3314</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN SRAGEN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3315</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN GROBOGAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3316</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN BLORA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3317</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN REMBANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3318</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN PATI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3319</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN KUDUS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3320</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN JEPARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3321</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN DEMAK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3322</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN SEMARANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3323</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN TEMANGGUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3324</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN KENDAL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3325</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN BATANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3326</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN PEKALONGAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3327</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN PEMALANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3328</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN TEGAL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3329</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KABUPATEN BREBES</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3371</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KOTA MAGELANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3372</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KOTA SURAKARTA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3373</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KOTA SALATIGA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3374</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KOTA SEMARANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3375</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KOTA PEKALONGAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3376</id_kabupaten>
+    <id_provinsi>33</id_provinsi>
+    <kabupaten>KOTA TEGAL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3401</id_kabupaten>
+    <id_provinsi>34</id_provinsi>
+    <kabupaten>KABUPATEN KULON PROGO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3402</id_kabupaten>
+    <id_provinsi>34</id_provinsi>
+    <kabupaten>KABUPATEN BANTUL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3403</id_kabupaten>
+    <id_provinsi>34</id_provinsi>
+    <kabupaten>KABUPATEN GUNUNG KIDUL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3404</id_kabupaten>
+    <id_provinsi>34</id_provinsi>
+    <kabupaten>KABUPATEN SLEMAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3471</id_kabupaten>
+    <id_provinsi>34</id_provinsi>
+    <kabupaten>KOTA YOGYAKARTA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3501</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN PACITAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3502</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN PONOROGO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3503</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN TRENGGALEK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3504</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN TULUNGAGUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3505</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN BLITAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3506</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN KEDIRI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3507</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN MALANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3508</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN LUMAJANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3509</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN JEMBER</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3510</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN BANYUWANGI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3511</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN BONDOWOSO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3512</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN SITUBONDO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3513</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN PROBOLINGGO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3514</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN PASURUAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3515</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN SIDOARJO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3516</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN MOJOKERTO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3517</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN JOMBANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3518</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN NGANJUK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3519</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN MADIUN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3520</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN MAGETAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3521</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN NGAWI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3522</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN BOJONEGORO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3523</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN TUBAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3524</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN LAMONGAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3525</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN GRESIK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3526</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN BANGKALAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3527</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN SAMPANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3528</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN PAMEKASAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3529</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KABUPATEN SUMENEP</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3571</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA KEDIRI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3572</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA BLITAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3573</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA MALANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3574</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA PROBOLINGGO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3575</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA PASURUAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3576</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA MOJOKERTO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3577</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA MADIUN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3578</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA SURABAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3579</id_kabupaten>
+    <id_provinsi>35</id_provinsi>
+    <kabupaten>KOTA BATU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3601</id_kabupaten>
+    <id_provinsi>36</id_provinsi>
+    <kabupaten>KABUPATEN PANDEGLANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3602</id_kabupaten>
+    <id_provinsi>36</id_provinsi>
+    <kabupaten>KABUPATEN LEBAK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3603</id_kabupaten>
+    <id_provinsi>36</id_provinsi>
+    <kabupaten>KABUPATEN TANGERANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3604</id_kabupaten>
+    <id_provinsi>36</id_provinsi>
+    <kabupaten>KABUPATEN SERANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3671</id_kabupaten>
+    <id_provinsi>36</id_provinsi>
+    <kabupaten>KOTA TANGERANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3672</id_kabupaten>
+    <id_provinsi>36</id_provinsi>
+    <kabupaten>KOTA CILEGON</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3673</id_kabupaten>
+    <id_provinsi>36</id_provinsi>
+    <kabupaten>KOTA SERANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>3674</id_kabupaten>
+    <id_provinsi>36</id_provinsi>
+    <kabupaten>KOTA TANGERANG SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5101</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KABUPATEN JEMBRANA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5102</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KABUPATEN TABANAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5103</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KABUPATEN BADUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5104</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KABUPATEN GIANYAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5105</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KABUPATEN KLUNGKUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5106</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KABUPATEN BANGLI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5107</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KABUPATEN KARANG ASEM</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5108</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KABUPATEN BULELENG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5171</id_kabupaten>
+    <id_provinsi>51</id_provinsi>
+    <kabupaten>KOTA DENPASAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5201</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KABUPATEN LOMBOK BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5202</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KABUPATEN LOMBOK TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5203</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KABUPATEN LOMBOK TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5204</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KABUPATEN SUMBAWA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5205</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KABUPATEN DOMPU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5206</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KABUPATEN BIMA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5207</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KABUPATEN SUMBAWA BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5208</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KABUPATEN LOMBOK UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5271</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KOTA MATARAM</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5272</id_kabupaten>
+    <id_provinsi>52</id_provinsi>
+    <kabupaten>KOTA BIMA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5301</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN SUMBA BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5302</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN SUMBA TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5303</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN KUPANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5304</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN TIMOR TENGAH SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5305</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN TIMOR TENGAH UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5306</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN BELU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5307</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN ALOR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5308</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN LEMBATA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5309</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN FLORES TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5310</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN SIKKA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5311</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN ENDE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5312</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN NGADA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5313</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN MANGGARAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5314</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN ROTE NDAO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5315</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN MANGGARAI BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5316</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN SUMBA TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5317</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN SUMBA BARAT DAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5318</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN NAGEKEO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5319</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN MANGGARAI TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5320</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN SABU RAIJUA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5321</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KABUPATEN MALAKA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>5371</id_kabupaten>
+    <id_provinsi>53</id_provinsi>
+    <kabupaten>KOTA KUPANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6101</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN SAMBAS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6102</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN BENGKAYANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6103</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN LANDAK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6104</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN MEMPAWAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6105</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN SANGGAU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6106</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN KETAPANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6107</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN SINTANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6108</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN KAPUAS HULU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6109</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN SEKADAU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6110</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN MELAWI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6111</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN KAYONG UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6112</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KABUPATEN KUBU RAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6171</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KOTA PONTIANAK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6172</id_kabupaten>
+    <id_provinsi>61</id_provinsi>
+    <kabupaten>KOTA SINGKAWANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6201</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN KOTAWARINGIN BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6202</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN KOTAWARINGIN TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6203</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN KAPUAS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6204</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN BARITO SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6205</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN BARITO UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6206</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN SUKAMARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6207</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN LAMANDAU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6208</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN SERUYAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6209</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN KATINGAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6210</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN PULANG PISAU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6211</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN GUNUNG MAS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6212</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN BARITO TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6213</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KABUPATEN MURUNG RAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6271</id_kabupaten>
+    <id_provinsi>62</id_provinsi>
+    <kabupaten>KOTA PALANGKA RAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6301</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN TANAH LAUT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6302</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN KOTA BARU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6303</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN BANJAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6304</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN BARITO KUALA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6305</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN TAPIN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6306</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN HULU SUNGAI SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6307</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN HULU SUNGAI TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6308</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN HULU SUNGAI UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6309</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN TABALONG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6310</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN TANAH BUMBU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6311</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KABUPATEN BALANGAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6371</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KOTA BANJARMASIN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6372</id_kabupaten>
+    <id_provinsi>63</id_provinsi>
+    <kabupaten>KOTA BANJAR BARU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6401</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KABUPATEN PASER</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6402</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KABUPATEN KUTAI BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6403</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KABUPATEN KUTAI KARTANEGARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6404</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KABUPATEN KUTAI TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6405</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KABUPATEN BERAU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6409</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KABUPATEN PENAJAM PASER UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6411</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KABUPATEN MAHAKAM HULU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6471</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KOTA BALIKPAPAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6472</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KOTA SAMARINDA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6474</id_kabupaten>
+    <id_provinsi>64</id_provinsi>
+    <kabupaten>KOTA BONTANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6501</id_kabupaten>
+    <id_provinsi>65</id_provinsi>
+    <kabupaten>KABUPATEN MALINAU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6502</id_kabupaten>
+    <id_provinsi>65</id_provinsi>
+    <kabupaten>KABUPATEN BULUNGAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6503</id_kabupaten>
+    <id_provinsi>65</id_provinsi>
+    <kabupaten>KABUPATEN TANA TIDUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6504</id_kabupaten>
+    <id_provinsi>65</id_provinsi>
+    <kabupaten>KABUPATEN NUNUKAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>6571</id_kabupaten>
+    <id_provinsi>65</id_provinsi>
+    <kabupaten>KOTA TARAKAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7101</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN BOLAANG MONGONDOW</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7102</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN MINAHASA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7103</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN SANGIHE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7104</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN TALAUD</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7105</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN MINAHASA SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7106</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN MINAHASA UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7107</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN BOLAANG MONGONDOW UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7108</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN SIAU TAGULANDANG BIARO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7109</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN MINAHASA TENGGARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7110</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN BOLAANG MONGONDOW SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7111</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KABUPATEN BOLAANG MONGONDOW TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7171</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KOTA MANADO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7172</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KOTA BITUNG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7173</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KOTA TOMOHON</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7174</id_kabupaten>
+    <id_provinsi>71</id_provinsi>
+    <kabupaten>KOTA KOTAMOBAGU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7201</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN BANGGAI KEPULAUAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7202</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN BANGGAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7203</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN MOROWALI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7204</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN POSO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7205</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN DONGGALA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7206</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN TOLI-TOLI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7207</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN BUOL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7208</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN PARIGI MOUTONG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7209</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN TOJO UNA-UNA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7210</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN SIGI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7211</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN BANGGAI LAUT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7212</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KABUPATEN MOROWALI UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7271</id_kabupaten>
+    <id_provinsi>72</id_provinsi>
+    <kabupaten>KOTA PALU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7301</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN SELAYAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7302</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN BULUKUMBA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7303</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN BANTAENG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7304</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN JENEPONTO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7305</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN TAKALAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7306</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN GOWA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7307</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN SINJAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7308</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN MAROS</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7309</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN PANGKAJENE DAN KEPULAUAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7310</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN BARRU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7311</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN BONE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7312</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN SOPPENG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7313</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN WAJO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7314</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN SIDENRENG RAPPANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7315</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN PINRANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7316</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN ENREKANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7317</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN LUWU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7318</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN TANA TORAJA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7322</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN LUWU UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7325</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN LUWU TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7326</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KABUPATEN TORAJA UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7371</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KOTA MAKASSAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7372</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KOTA PAREPARE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7373</id_kabupaten>
+    <id_provinsi>73</id_provinsi>
+    <kabupaten>KOTA PALOPO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7401</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN BUTON</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7402</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN MUNA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7403</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN KONAWE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7404</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN KOLAKA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7405</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN KONAWE SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7406</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN BOMBANA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7407</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN WAKATOBI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7408</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN KOLAKA UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7409</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN BUTON UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7410</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN KONAWE UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7411</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN KOLAKA TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7412</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN KONAWE KEPULAUAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7413</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN MUNA BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7414</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN BUTON TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7415</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KABUPATEN BUTON SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7471</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KOTA KENDARI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7472</id_kabupaten>
+    <id_provinsi>74</id_provinsi>
+    <kabupaten>KOTA BAUBAU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7501</id_kabupaten>
+    <id_provinsi>75</id_provinsi>
+    <kabupaten>KABUPATEN BOALEMO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7502</id_kabupaten>
+    <id_provinsi>75</id_provinsi>
+    <kabupaten>KABUPATEN GORONTALO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7503</id_kabupaten>
+    <id_provinsi>75</id_provinsi>
+    <kabupaten>KABUPATEN POHUWATO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7504</id_kabupaten>
+    <id_provinsi>75</id_provinsi>
+    <kabupaten>KABUPATEN BONE BOLANGO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7505</id_kabupaten>
+    <id_provinsi>75</id_provinsi>
+    <kabupaten>KABUPATEN GORONTALO UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7571</id_kabupaten>
+    <id_provinsi>75</id_provinsi>
+    <kabupaten>KOTA GORONTALO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7601</id_kabupaten>
+    <id_provinsi>76</id_provinsi>
+    <kabupaten>KABUPATEN MAJENE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7602</id_kabupaten>
+    <id_provinsi>76</id_provinsi>
+    <kabupaten>KABUPATEN POLEWALI MANDAR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7603</id_kabupaten>
+    <id_provinsi>76</id_provinsi>
+    <kabupaten>KABUPATEN MAMASA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7604</id_kabupaten>
+    <id_provinsi>76</id_provinsi>
+    <kabupaten>KABUPATEN MAMUJU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7605</id_kabupaten>
+    <id_provinsi>76</id_provinsi>
+    <kabupaten>KABUPATEN MAMUJU UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>7606</id_kabupaten>
+    <id_provinsi>76</id_provinsi>
+    <kabupaten>KABUPATEN MAMUJU TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8101</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN MALUKU TENGGARA BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8102</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN MALUKU TENGGARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8103</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN MALUKU TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8104</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN BURU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8105</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN ARU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8106</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN SERAM BAGIAN BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8107</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN SERAM BAGIAN TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8108</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN MALUKU BARAT DAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8109</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KABUPATEN BURU SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8171</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KOTA AMBON</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8172</id_kabupaten>
+    <id_provinsi>81</id_provinsi>
+    <kabupaten>KOTA TUAL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8201</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KABUPATEN HALMAHERA BARAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8202</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KABUPATEN HALMAHERA TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8203</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN SULA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8204</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KABUPATEN HALMAHERA SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8205</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KABUPATEN HALMAHERA UTARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8206</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KABUPATEN HALMAHERA TIMUR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8207</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KABUPATEN PULAU MOROTAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8208</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KABUPATEN PULAU TALIABU</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8271</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KOTA TERNATE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>8272</id_kabupaten>
+    <id_provinsi>82</id_provinsi>
+    <kabupaten>KOTA TIDORE KEPULAUAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9101</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN FAKFAK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9102</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN KAIMANA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9103</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN TELUK WONDAMA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9104</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN TELUK BINTUNI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9105</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN MANOKWARI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9106</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN SORONG SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9107</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN SORONG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9108</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN RAJA AMPAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9109</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN TAMBRAUW</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9110</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN MAYBRAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9111</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN MANOKWARI SELATAN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9112</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KABUPATEN PEGUNUNGAN ARFAK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9171</id_kabupaten>
+    <id_provinsi>91</id_provinsi>
+    <kabupaten>KOTA SORONG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9401</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN MERAUKE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9402</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN JAYAWIJAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9403</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN JAYAPURA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9404</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN NABIRE</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9408</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN KEPULAUAN YAPEN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9409</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN BIAK NUMFOR</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9410</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN PANIAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9411</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN PUNCAK JAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9412</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN MIMIKA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9413</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN BOVEN DIGOEL</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9414</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN MAPPI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9415</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN ASMAT</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9416</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN YAHUKIMO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9417</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN PEGUNUNGAN BINTANG</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9418</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN TOLIKARA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9419</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN SARMI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9420</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN KEEROM</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9426</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN WAROPEN</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9427</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN SUPIORI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9428</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN MAMBERAMO RAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9429</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN NDUGA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9430</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN LANNY JAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9431</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN MAMBERAMO TENGAH</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9432</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN YALIMO</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9433</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN PUNCAK</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9434</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN DOGIYAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9435</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN INTAN JAYA</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9436</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KABUPATEN DEIYAI</kabupaten>
+  </row>
+  <row>
+    <id_kabupaten>9471</id_kabupaten>
+    <id_provinsi>94</id_provinsi>
+    <kabupaten>KOTA JAYAPURA</kabupaten>
+  </row>
+</root>

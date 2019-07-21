@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id_provinsi>11</id_provinsi>
+    <provinsi>ACEH</provinsi>
+  </row>
+  <row>
+    <id_provinsi>12</id_provinsi>
+    <provinsi>SUMATERA UTARA</provinsi>
+  </row>
+  <row>
+    <id_provinsi>13</id_provinsi>
+    <provinsi>SUMATERA BARAT</provinsi>
+  </row>
+  <row>
+    <id_provinsi>14</id_provinsi>
+    <provinsi>RIAU</provinsi>
+  </row>
+  <row>
+    <id_provinsi>15</id_provinsi>
+    <provinsi>JAMBI</provinsi>
+  </row>
+  <row>
+    <id_provinsi>16</id_provinsi>
+    <provinsi>SUMATERA SELATAN</provinsi>
+  </row>
+  <row>
+    <id_provinsi>17</id_provinsi>
+    <provinsi>BENGKULU</provinsi>
+  </row>
+  <row>
+    <id_provinsi>18</id_provinsi>
+    <provinsi>LAMPUNG</provinsi>
+  </row>
+  <row>
+    <id_provinsi>19</id_provinsi>
+    <provinsi>KEPULAUAN BANGKA BELITUNG</provinsi>
+  </row>
+  <row>
+    <id_provinsi>21</id_provinsi>
+    <provinsi>KEPULAUAN RIAU</provinsi>
+  </row>
+  <row>
+    <id_provinsi>31</id_provinsi>
+    <provinsi>DKI JAKARTA</provinsi>
+  </row>
+  <row>
+    <id_provinsi>32</id_provinsi>
+    <provinsi>JAWA BARAT</provinsi>
+  </row>
+  <row>
+    <id_provinsi>33</id_provinsi>
+    <provinsi>JAWA TENGAH</provinsi>
+  </row>
+  <row>
+    <id_provinsi>34</id_provinsi>
+    <provinsi>DI YOGYAKARTA</provinsi>
+  </row>
+  <row>
+    <id_provinsi>35</id_provinsi>
+    <provinsi>JAWA TIMUR</provinsi>
+  </row>
+  <row>
+    <id_provinsi>36</id_provinsi>
+    <provinsi>BANTEN</provinsi>
+  </row>
+  <row>
+    <id_provinsi>51</id_provinsi>
+    <provinsi>BALI</provinsi>
+  </row>
+  <row>
+    <id_provinsi>52</id_provinsi>
+    <provinsi>NUSA TENGGARA BARAT</provinsi>
+  </row>
+  <row>
+    <id_provinsi>53</id_provinsi>
+    <provinsi>NUSA TENGGARA TIMUR</provinsi>
+  </row>
+  <row>
+    <id_provinsi>61</id_provinsi>
+    <provinsi>KALIMANTAN BARAT</provinsi>
+  </row>
+  <row>
+    <id_provinsi>62</id_provinsi>
+    <provinsi>KALIMANTAN TENGAH</provinsi>
+  </row>
+  <row>
+    <id_provinsi>63</id_provinsi>
+    <provinsi>KALIMANTAN SELATAN</provinsi>
+  </row>
+  <row>
+    <id_provinsi>64</id_provinsi>
+    <provinsi>KALIMANTAN TIMUR</provinsi>
+  </row>
+  <row>
+    <id_provinsi>65</id_provinsi>
+    <provinsi>KALIMANTAN UTARA</provinsi>
+  </row>
+  <row>
+    <id_provinsi>71</id_provinsi>
+    <provinsi>SULAWESI UTARA</provinsi>
+  </row>
+  <row>
+    <id_provinsi>72</id_provinsi>
+    <provinsi>SULAWESI TENGAH</provinsi>
+  </row>
+  <row>
+    <id_provinsi>73</id_provinsi>
+    <provinsi>SULAWESI SELATAN</provinsi>
+  </row>
+  <row>
+    <id_provinsi>74</id_provinsi>
+    <provinsi>SULAWESI TENGGARA</provinsi>
+  </row>
+  <row>
+    <id_provinsi>75</id_provinsi>
+    <provinsi>GORONTALO</provinsi>
+  </row>
+  <row>
+    <id_provinsi>76</id_provinsi>
+    <provinsi>SULAWESI BARAT</provinsi>
+  </row>
+  <row>
+    <id_provinsi>81</id_provinsi>
+    <provinsi>MALUKU</provinsi>
+  </row>
+  <row>
+    <id_provinsi>82</id_provinsi>
+    <provinsi>MALUKU UTARA</provinsi>
+  </row>
+  <row>
+    <id_provinsi>91</id_provinsi>
+    <provinsi>PAPUA BARAT</provinsi>
+  </row>
+  <row>
+    <id_provinsi>94</id_provinsi>
+    <provinsi>PAPUA</provinsi>
+  </row>
+</root>
